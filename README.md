@@ -2,13 +2,13 @@
 
 ## How to run the application
 
-In the project directory, you can run:
+Download the zip and extract.
+In VS Code go to the directory of the downloaded folder and run the following command,
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 
 
 ## Additions added
